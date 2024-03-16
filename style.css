@@ -343,10 +343,6 @@ footer .line-footer p a {
         flex-direction: column;
     }
 
-    .topo-do-site .flex {
-        flex-direction: column-reverse;
-    }
-
     h2.titulo {
         font-size: 34px;
         line-height: 30px;
