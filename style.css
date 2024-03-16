@@ -376,6 +376,10 @@ footer .line-footer p a {
         padding: 40px 8%;
     }
 
+    .especialidades .especialidades-box {
+        text-align: center;
+    }
+
     /* sobre */
     section.sobre {
         padding: 80px 8%;
